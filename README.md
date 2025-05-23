@@ -37,9 +37,8 @@ With only 100 mock samples, the trained model reached a **Mean Squared Error (MS
 In this project, the model's performance is evaluated using **MSE (Mean Squared Error)**. MSE is a common metric used in regression tasks to measure the average of the squares of the errors between predicted and actual values.
 
 ### 📐 Formula:
-\[
-\text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
-\]
+
+![MSE](https://github.com/profmaddo/farm-intelligence-mlops-by-marco-maddo/blob/main/images/formule_mse.png)
 
 - \( y_i \): actual value
 - \( \hat{y}_i \): predicted value
@@ -57,6 +56,7 @@ In this project, the model's performance is evaluated using **MSE (Mean Squared 
 Neste projeto, a performance do modelo é avaliada utilizando o **MSE (Erro Quadrático Médio)**. O MSE é uma métrica comum em tarefas de regressão que mede a média dos quadrados dos erros entre os valores previstos e os reais.
 
 ### 📐 Fórmula:
+
 ![MSE](https://github.com/profmaddo/farm-intelligence-mlops-by-marco-maddo/blob/main/images/formule_mse.png)
 
 - \( y_i \): valor real
