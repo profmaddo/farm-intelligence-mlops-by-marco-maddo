@@ -1,5 +1,5 @@
 # farm-intelligence-mlops-by-marco-maddo
-Form Intelligence MLOps by Marco Maddo
+Farm Intelligence MLOps by Marco Maddo
 ---
 # 🌾 MLOps Project: Agricultural Yield Prediction / Projeto MLOps: Previsão de Rendimento Agrícola
 

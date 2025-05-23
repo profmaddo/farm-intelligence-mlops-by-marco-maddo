@@ -5,6 +5,6 @@ scikit-learn
 joblib
 pydantic
 numpy
-
+httpx
 mlflow
 pytest
