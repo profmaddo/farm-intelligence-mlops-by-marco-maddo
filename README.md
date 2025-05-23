@@ -105,7 +105,7 @@ Este projeto demonstra um pipeline completo de MLOps com Python, incluindo:
 
 ## 🧭 Arquitetura do Projeto
 
-![Arquitetura MLOps](mlops_architecture_diagram.png)
+![Arquitetura MLOps](https://github.com/profmaddo/farm-intelligence-mlops-by-marco-maddo/blob/main/images/mlops_architecture_diagram.png)
 
 ---
 
