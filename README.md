@@ -155,17 +155,6 @@ Projeto criado por Marco Maddo como exemplo educacional de MLOps com Python.
 
 ---
 
-
----
-
-## 🗂️ Arquitetura do Projeto
-
-A imagem abaixo resume o fluxo completo de MLOps:
-
-![Arquitetura](diagrama_arquitetura_mlops.png)
-
----
-
 ## 🐳 Como rodar com Docker Compose
 
 1. **Build dos serviços**
