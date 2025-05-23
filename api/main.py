@@ -6,6 +6,7 @@ import numpy as np
 app = FastAPI()
 model = joblib.load("models/yield_model.pkl")
 
+# InputData
 class InputData(BaseModel):
     temperature: float
     rainfall: float
