@@ -57,9 +57,7 @@ In this project, the model's performance is evaluated using **MSE (Mean Squared 
 Neste projeto, a performance do modelo é avaliada utilizando o **MSE (Erro Quadrático Médio)**. O MSE é uma métrica comum em tarefas de regressão que mede a média dos quadrados dos erros entre os valores previstos e os reais.
 
 ### 📐 Fórmula:
-\[
-\text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
-\]
+![MSE](https://github.com/profmaddo/farm-intelligence-mlops-by-marco-maddo/blob/main/images/formule_mse.png)
 
 - \( y_i \): valor real
 - \( \hat{y}_i \): valor previsto
